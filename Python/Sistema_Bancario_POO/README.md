@@ -57,7 +57,7 @@ O sistema foi modelado utilizando conceitos sólidos de POO:
 
 ---
 
-##  Tecnologias Utilizadas
+##  Tecnologias Utilizadas 
 
 - **Python 3**
 - Módulos padrão:
